@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  background-color: skyblue;
+}
+.image {
+  margin-top: 1rem;
+  height: 10rem;
+  background-clip: ;
+  width: 10rem;
+}
+.timer {
+  margin-top: 1.5rem;
+  margin-bottom: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 4rem;
+  color: darkcyan;
+  letter-spacing: 1rem;
+}
+.App h1 {
+  margin: 4rem 0 0 0;
+  font-size: 3rem;
+  font-family: cursive;
+  text-size-adjust: under;
+}
+.buttons button {
+  background-color: orange;
+  cursor: pointer;
+  font-size: 22px;
+  border: none;
+  box-shadow: black 3px;
+  font-weight: 600;
+  border-radius: 3px;
+  color: green;
+  width: 5rem;
+  height: 3rem;
+  margin: 0.2rem;
+}
+.dots {
+  font-weight: 900;
+}
