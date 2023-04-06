@@ -1,3 +1,13 @@
 # CountDown
-THIS IS MY WEBSITE WHERE I LEARN USESTATE AND SETINTERVAL METHODS OF JAVASCRIPT ,USEREF HOOKS FUNCTIONALITY....
-LIVE ON THIS :-https://mpxm8s.csb.app/
+This Website i build when i was Learning Hooks
+like UseState,SetInterval Methods ,UseRef Hook,and important javascript funtions...
+
+
+⚡️Technologies :
+⁍ React
+⁍ Java Script
+⁍ html5
+⁍ css3
+
+
+Link to check  :-https://mpxm8s.csb.app/
